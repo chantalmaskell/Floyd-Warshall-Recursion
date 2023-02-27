@@ -5,3 +5,6 @@
 
 # For the primary report, please refer to the submitted Word document
 
+# To run the testing file, use:
+
+# $ pytest floyd_testing.py
